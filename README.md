@@ -24,7 +24,7 @@ This is a work day calendar to manage daily plans effectively. Easy to set and s
 * JavaScript
 
 ## Website
-https://yurii92.github.io/Work-Day-Scheduler-by-YI/
+https://falconview.github.io/Work-Day-Scheduler/
 ![alt text](./Assets/Images/screenscap_01_main.png)
 
 ## Contribution
